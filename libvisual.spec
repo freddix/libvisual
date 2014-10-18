@@ -1,7 +1,8 @@
+# based on PLD Linux spec git://git.pld-linux.org/packages/libvisual.git
 Summary:	Abstraction library that comes between applications and audio visualisation plugins
 Name:		libvisual
 Version:	0.4.0
-Release:	12
+Release:	13
 License:	GPL
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/libvisual/%{name}-%{version}.tar.bz2
